@@ -1,3 +1,5 @@
+![CI_Status](https://github.com/Utkarshthgr8/github-actions-python-cli-example/actions/workflows/python-app.yml/badge.svg)
+
 # [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/nvd "Coursera Course")
 
 # Python CLI Example
